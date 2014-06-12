@@ -12,9 +12,8 @@ public class MyScanner {
             String vorname = s.nextLine();
             System.out.println("Bitte geben Sie Ihren Nachname ein:");
             String nachname = s.nextLine();
-            //testzeile
              String nachname = s.nextLine();
-              String nachname = s.nextLine();
+              //String nachname = s.nextLine();
                String nachname = s.nextLine();
                 String nachname = s.nextLine();
 
