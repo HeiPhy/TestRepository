@@ -14,7 +14,7 @@ public class MyScanner {
             String nachname = s.nextLine();
              String nachname = s.nextLine();
               //String nachname = s.nextLine();
-               String nachname = s.nextLine();
+               String familienname = s.nextLine();
                 String nachname = s.nextLine();
 
             System.out.println("Hallo " + vorname + " " + nachname + "!");
